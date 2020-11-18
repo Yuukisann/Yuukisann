@@ -1,0 +1,26 @@
+{
+  "name": "mydatabasep",
+  "version": "1.0.0",
+  "description": "A simple portfolio site\r We'll bring together a wide range of programming techniques, movies you've seen, games you've played, and more!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuukisann/Yuukisann.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuukisann/Yuukisann/issues"
+  },
+  "homepage": "https://github.com/Yuukisann/Yuukisann#readme",
+  "devDependencies": {
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
